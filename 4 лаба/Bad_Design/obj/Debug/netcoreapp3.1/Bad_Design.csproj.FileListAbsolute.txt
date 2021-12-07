@@ -1,0 +1,13 @@
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\bin\Debug\netcoreapp3.1\Bad_Design.exe
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\bin\Debug\netcoreapp3.1\Bad_Design.deps.json
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\bin\Debug\netcoreapp3.1\Bad_Design.runtimeconfig.json
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\bin\Debug\netcoreapp3.1\Bad_Design.runtimeconfig.dev.json
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\bin\Debug\netcoreapp3.1\Bad_Design.dll
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\bin\Debug\netcoreapp3.1\Bad_Design.pdb
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\obj\Debug\netcoreapp3.1\Bad_Design.csprojAssemblyReference.cache
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\obj\Debug\netcoreapp3.1\Bad_Design.AssemblyInfoInputs.cache
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\obj\Debug\netcoreapp3.1\Bad_Design.AssemblyInfo.cs
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\obj\Debug\netcoreapp3.1\Bad_Design.csproj.CoreCompileInputs.cache
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\obj\Debug\netcoreapp3.1\Bad_Design.dll
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\obj\Debug\netcoreapp3.1\Bad_Design.pdb
+C:\Users\s_pom\OneDrive\Рабочий стол\SOLID\4 лаба\Bad_Design\obj\Debug\netcoreapp3.1\Bad_Design.genruntimeconfig.cache
